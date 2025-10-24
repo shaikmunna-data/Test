@@ -16,3 +16,5 @@ ON c.id = o.customerid;
 
 SELECT * 
 FROM Sales.Employees WHERE salary > 20000;
+
+SELECT * FROM Sales Orders;
